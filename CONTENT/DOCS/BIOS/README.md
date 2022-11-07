@@ -17,9 +17,9 @@
 9. Disable OnBoard Video, Audio or Lan Controller if you have a PCI/USB one that is or will be installed.
 10. Set your **Primary Display Output to your dedicated graphics** card if present
 11. Leave High Precision Event Timer (HPET) ON in the BIOS if present or if it is enabled by default
-12. Make sure **Platform Power Management is disabled**
-13. **Disable any onboard LED/RGB traces/lights**, e.g. Gigabyte Ambient LED
-14. Set your **PCI Express Max Link Speed to Gen3**, devices can negotiate lower spec as needed.
+12. **Disable any onboard LED/RGB traces/lights**
+   - May use CPU resources and increase latency.
+13. Set your **PCI Express Max Link Speed to Gen3**, devices can negotiate lower spec as needed.
 
 ### Other Considerations
 * Disable or Enable Legacy USB Support & Port 60/64 Emulation
