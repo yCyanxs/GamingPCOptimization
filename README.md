@@ -15,21 +15,13 @@ If you do use this or redistribute this in any way, please give due credit.
 
 [3. Windows Initial Post Installation Steps](CONTENT/DOCS/POSTINSTALL/README.md)
 
-[4. Optimize Windows Services](CONTENT/DOCS/SERVICES/README.md)
-
-[5. Optimize Windows Scheduled Tasks](CONTENT/DOCS/SCHEDULEDTASKS/README.md)
+[4. Optimize Windows](CONTENT/DOCS/SERVICES/README.md)
 
 [6. Configure Network Settings](CONTENT/DOCS/NETWORK/README.md)
-
-[7. Setup and Configure Steam](CONTENT/DOCS/STEAM/README.md)
 
 [8. Setup Your Video Card](CONTENT/DOCS/VIDEOCARD/README.md)
 
 [9. Audio Configuration](CONTENT/DOCS/AUDIO/README.md)
-
-[10. Powershell Desired State Configuration (DSC) Setup and Use](CONTENT/DOCS/PSDSC/README.md)
-
-[11. Configure Your Games](CONTENT/DOCS/GAMECONFIGS/README.md)
 
 [12. Choosing Peripherals (Keyboard/Mice/Monitor)](CONTENT/DOCS/PERIPHERALS/README.md)
 
