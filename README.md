@@ -4,7 +4,6 @@ A research and evidence based approach to optimizing your gaming PC, configurati
  * Standardize your gaming PC builds
  * Peripheral selection, configuration and maintenance
  * Troubleshooting and isolating unusual performance behavior
- * A customizable [PowerShell Desired State Configuration (DSC)](CONTENT/DOCS/PSDSC/README.md) to help ensure your settings always stay the same and quickly verified with a simple command.
 
 If you do use this or redistribute this in any way, please give due credit.
 
